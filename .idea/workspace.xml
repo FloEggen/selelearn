@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e4417f3-319c-4a3f-b691-9a9861ed5371" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YGBeaKjs9VSyLonThUetsY1KBM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.formation.seletuto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Selenium\selelearn" />
+      <recent name="C:\Selenium\selelearn\src\test\resources\features\dojo" />
+      <recent name="C:\Selenium\selelearn\src\test\resources\features" />
+      <recent name="C:\Selenium\selelearn\src\test\resources\properties\rdu" />
+      <recent name="C:\Selenium\selelearn\src\test\java\com\formation\seletuto\serenitybdd" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.formation.seletuto.sandbox" />
+      <recent name="com.formation.seletuto.dojo.steplibraries" />
+      <recent name="com.formation.seletuto.dojo" />
+      <recent name="com.formation.seletuto.serenitybdd.pages.rdu" />
+      <recent name="com.formation.seletuto.serenitybdd.usersteps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Selenium\selelearn\src\test\resources\features\rdu" />
+      <recent name="C:\Selenium\selelearn\src\test\resources\properties\serenity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -am -Ddriverx=&quot;chrome&quot; " />
+      <command value="mvn clean integration-test -am -Ddriverx=&quot;chrome&quot; " />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ModifyHeaders">
+    <configuration name="Exercise1Corrected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.formation.seletuto.exercise1.Exercise1Corrected" />
+      <module name="selelearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.formation.seletuto.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifyHeaders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.formation.seletuto.sandbox.ModifyHeaders" />
+      <module name="selelearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.formation.seletuto.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppExerciseTestSuite" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="selelearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.formation.seletuto.serenity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.formation.seletuto.serenity" />
+      <option name="MAIN_CLASS_NAME" value="com.formation.seletuto.serenity.AppExerciseTestSuite" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dspring.profiles.active=&quot;int&quot; -Ddriverx=&quot;chrome&quot;" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5TestSuite" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="selelearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.formation.seletuto.dojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.formation.seletuto.dojo" />
+      <option name="MAIN_CLASS_NAME" value="com.formation.seletuto.dojo.Exercise5TestSuite" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RduTestSuite" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="selelearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.formation.seletuto.serenitybdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.formation.seletuto.serenitybdd" />
+      <option name="MAIN_CLASS_NAME" value="com.formation.seletuto.serenitybdd.RduTestSuite" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dspring.profiles.active=&quot;int&quot; -Ddriverx=&quot;chrome&quot;" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Exercise1Corrected" />
+      <item itemvalue="Application.ModifyHeaders" />
+      <item itemvalue="JUnit.AppExerciseTestSuite" />
+      <item itemvalue="JUnit.RduTestSuite" />
+      <item itemvalue="JUnit.Exercise5TestSuite" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ModifyHeaders" />
+        <item itemvalue="Application.Exercise1Corrected" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e4417f3-319c-4a3f-b691-9a9861ed5371" name="Default Changelist" comment="" />
+      <created>1582559146319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582559146319</updated>
+      <workItem from="1582559153485" duration="5088000" />
+      <workItem from="1582879618767" duration="11033000" />
+      <workItem from="1583869880281" duration="1891000" />
+      <workItem from="1584008828029" duration="807000" />
+      <workItem from="1584393272748" duration="2075000" />
+      <workItem from="1584466224844" duration="244000" />
+      <workItem from="1584478615828" duration="13886000" />
+      <workItem from="1584626094582" duration="1778000" />
+      <workItem from="1584628325306" duration="8140000" />
+      <workItem from="1584707442115" duration="28162000" />
+      <workItem from="1585037560462" duration="1172000" />
+      <workItem from="1585043991684" duration="1020000" />
+      <workItem from="1585045175429" duration="1056000" />
+      <workItem from="1585061153123" duration="14306000" />
+      <workItem from="1585686391766" duration="1350000" />
+      <workItem from="1585905265513" duration="18570000" />
+      <workItem from="1586845826226" duration="2526000" />
+      <workItem from="1587106412102" duration="1198000" />
+      <workItem from="1587297479784" duration="702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="244" y="22" key="#AppExercise" timestamp="1584516545418">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="244" y="22" key="#AppExercise/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584516545418" />
+    <state x="2483" y="201" key="#Exercise5TestSuite" timestamp="1585125664167">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2483" y="201" key="#Exercise5TestSuite/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585125664167" />
+    <state x="563" y="-879" key="#RduTestSuite" timestamp="1584652363946">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="563" y="-879" key="#RduTestSuite/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584652363946" />
+    <state x="2606" y="201" key="#Scenario:_Buyer_orders_a_coffee" timestamp="1585070712540">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2606" y="201" key="#Scenario:_Buyer_orders_a_coffee/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585070712540" />
+    <state x="2207" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585925755793">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="287" y="-1080" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584698764039" />
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519019944" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583310966482" />
+    <state x="287" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584994214900" />
+    <state x="2207" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585925755793" />
+    <state x="667" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585917048165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="331" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585917048165" />
+    <state x="2685" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1585125365939">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="240" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585125365939" />
+    <state x="2523" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585045490289">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="-630" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584650313727" />
+    <state x="2523" y="450" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585045490289" />
+    <state x="761" y="-670" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584650316812">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="761" y="-670" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584650316812" />
+    <state x="594" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584650902686">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="594" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584650902686" />
+    <state x="396" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584478968203" />
+    <state x="3295" y="190" key="#xdebugger.evaluate" timestamp="1586100455492">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1090" y="-752" key="#xdebugger.evaluate/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584625482162" />
+    <state x="1375" y="190" key="#xdebugger.evaluate/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585918852651" />
+    <state x="3295" y="190" key="#xdebugger.evaluate/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100455492" />
+    <state x="2660" y="279" key="FileChooserDialogImpl" timestamp="1585062533360">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="-801" key="FileChooserDialogImpl/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584645358854" />
+    <state x="2660" y="279" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585062533360" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1586100641797">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103296" />
+    <state width="1237" height="199" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030395" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516718" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905961" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922279392" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100641797" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1586100641797">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103296" />
+    <state width="1237" height="199" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030395" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516718" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905961" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922279392" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100641797" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1586100641797">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103296" />
+    <state width="1237" height="199" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030395" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516717" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905961" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922279391" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100641797" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1586100641797">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103296" />
+    <state width="1237" height="199" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030395" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516718" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905961" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922279392" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100641797" />
+    <state width="1877" height="270" key="GridCell.Tab.1.bottom" timestamp="1586100659534">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103297" />
+    <state width="1237" height="199" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030163" />
+    <state width="1228" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516710" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905962" />
+    <state width="1877" height="270" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922291332" />
+    <state width="1877" height="270" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100659534" />
+    <state width="1877" height="270" key="GridCell.Tab.1.center" timestamp="1586100659533">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103297" />
+    <state width="1237" height="199" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030163" />
+    <state width="1228" height="338" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516709" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905962" />
+    <state width="1877" height="270" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922291332" />
+    <state width="1877" height="270" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100659533" />
+    <state width="1877" height="270" key="GridCell.Tab.1.left" timestamp="1586100659533">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103297" />
+    <state width="1237" height="199" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030163" />
+    <state width="1228" height="338" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516709" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905961" />
+    <state width="1877" height="270" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922291332" />
+    <state width="1877" height="270" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100659533" />
+    <state width="1877" height="270" key="GridCell.Tab.1.right" timestamp="1586100659534">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="199" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584699103297" />
+    <state width="1237" height="199" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1584519030163" />
+    <state width="1228" height="338" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583861516710" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583150905962" />
+    <state width="1877" height="270" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922291332" />
+    <state width="1877" height="270" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1586100659534" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1585165993427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="-914" key="SettingsEditor/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584632002070" />
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583310483671" />
+    <state x="463" y="166" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585165993427" />
+    <state x="2383" y="166" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585156306024" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587114382027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1583869881630" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1587114382027" />
+    <state x="667" y="276" width="586" height="488" key="find.popup" timestamp="1584978929411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="276" width="586" height="488" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584978929411" />
+    <state x="144" y="-726" width="3408" height="3500" key="run.anything.popup" timestamp="1584993812109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="96" y="-475" width="2272" height="2288" key="run.anything.popup/0.0.1280.680/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1584628631539" />
+    <state x="144" y="-726" width="3408" height="3500" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584993812109" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/formation/seletuto/exercise1/Exercise1Corrected.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/formation/seletuto/exercise1/Exercise1Corrected.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/formation/seletuto/serenity/drivers/DriverSelection.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/formation/seletuto/serenitybdd/pages/rdu/ProfilPage.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/formation/seletuto/dojo/OrderACoffeeStepDefinitions.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/formation/seletuto/dojo/OrderACoffeeStepDefinitions.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

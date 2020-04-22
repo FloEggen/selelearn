@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.formation.seletuto.serenity.AppExerciseTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.239 sec <<< FAILURE! - in com.formation.seletuto.serenity.AppExerciseTestSuite
+com.formation.seletuto.serenity.AppExerciseTestSuite  Time elapsed: 4.601 sec  <<< ERROR!
+net.serenitybdd.core.exceptions.StepInitialisationException: Failed to create step library for AppSteps:Could not instantiate test instance
+Caused by: java.lang.IllegalStateException: Could not instantiate test instance
+Caused by: java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.formation.seletuto.serenity.AppConfig]; nested exception is java.io.FileNotFoundException: class path resource [properties/app-int.properties] cannot be opened because it does not exist
+Caused by: java.io.FileNotFoundException: class path resource [properties/app-int.properties] cannot be opened because it does not exist
+

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.formation.seletuto.serenity.AppExerciseTestSuite" skipped="0" tests="1" time="0.0" timestamp="2020-03-24 09:20:40"><testcase classname="com.formation.seletuto.serenity.AppExerciseTestSuite" name="Initialisation"><error message="Could not instantiate test instance" type="java.lang.IllegalStateException">Could not instantiate test instance</error><system-err>Could not instantiate test instance&#13;
+</system-err></testcase></testsuite>
