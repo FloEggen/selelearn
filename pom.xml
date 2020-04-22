@@ -46,13 +46,6 @@
     </dependency>
     <!-- End of minimum dependencies to create a basic Selenium test -->
 
-    <!-- Test for Inexta -->
-    <dependency>
-      <groupId>net.lightbody.bmp</groupId>
-      <artifactId>browsermob-core</artifactId>
-      <version>2.1.5</version>
-    </dependency>
-
     <!-- Hamcrest assertion type -->
     <dependency>
       <groupId>org.hamcrest</groupId>
